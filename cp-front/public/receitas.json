@@ -1,0 +1,275 @@
+[
+  {
+    "id": 1,
+    "categoria": "Café da Manhã",
+    "nome": "Omelete Simples",
+    "ingredientes": [
+      "2 ovos",
+      "Sal a gosto",
+      "Pimenta do reino a gosto",
+      "1 colher de sopa de manteiga ou óleo",
+      "Recheio opcional (queijo, presunto, tomate)"
+    ],
+    "tempo": "10 minutos"
+  },
+  {
+    "id": 2,
+    "categoria": "Café da Manhã",
+    "nome": "Panquecas Americanas",
+    "ingredientes": [
+      "1 xícara de farinha de trigo",
+      "1 colher de sopa de açúcar",
+      "1 colher de chá de fermento em pó",
+      "1/2 colher de chá de sal",
+      "1 ovo",
+      "1 xícara de leite",
+      "2 colheres de sopa de manteiga derretida"
+    ],
+    "tempo": "20 minutos"
+  },
+  {
+    "id": 3,
+    "categoria": "Café da Manhã",
+    "nome": "Tapioca com Queijo e Coco",
+    "ingredientes": [
+      "4 colheres de sopa de goma de tapioca hidratada",
+      "Queijo coalho ralado a gosto",
+      "Coco ralado fresco ou seco a gosto",
+      "Sal a gosto (opcional)"
+    ],
+    "tempo": "8 minutos"
+  },
+  {
+    "id": 4,
+    "categoria": "Café da Manhã",
+    "nome": "Vitamina de Banana com Aveia",
+    "ingredientes": [
+      "1 banana madura",
+      "200ml de leite",
+      "2 colheres de sopa de aveia em flocos",
+      "Mel ou açúcar a gosto (opcional)"
+    ],
+    "tempo": "5 minutos"
+  },
+  {
+    "id": 5,
+    "categoria": "Café da Manhã",
+    "nome": "Pão na Chapa com Requeijão",
+    "ingredientes": [
+      "2 fatias de pão de forma ou pão francês",
+      "Manteiga para untar",
+      "Requeijão cremoso a gosto"
+    ],
+    "tempo": "7 minutos"
+  },
+  {
+    "id": 6,
+    "categoria": "Pratos principais",
+    "nome": "Macarrão à Bolonhesa",
+    "ingredientes": [
+      "500g de macarrão (espaguete ou outro)",
+      "400g de carne moída",
+      "1 cebola média picada",
+      "2 dentes de alho picados",
+      "1 lata de tomate pelado (ou molho pronto)",
+      "Sal a gosto",
+      "Pimenta do reino a gosto",
+      "Azeite de oliva",
+      "Manjericão fresco (opcional)"
+    ],
+    "tempo": "45 minutos"
+  },
+  {
+    "id": 7,
+    "categoria": "Pratos principais",
+    "nome": "Frango Assado Clássico",
+    "ingredientes": [
+      "1 kg de coxas e sobrecoxas de frango",
+      "Suco de 1 limão",
+      "4 dentes de alho amassados",
+      "Sal a gosto",
+      "Pimenta do reino a gosto",
+      "Ervas finas (alecrim, tomilho) a gosto",
+      "Batatas cortadas em rodelas (opcional)"
+    ],
+    "tempo": "1 hora e 15 minutos"
+  },
+  {
+    "id": 8,
+    "categoria": "Pratos principals",
+    "nome": "Feijoada Simples",
+    "ingredientes": [
+      "500g de feijão preto cozido",
+      "100g de bacon picado",
+      "1 linguiça calabresa em rodelas",
+      "1 cebola picada",
+      "2 dentes de alho picados",
+      "Folhas de louro",
+      "Sal e pimenta a gosto",
+      "Cheiro-verde picado"
+    ],
+    "tempo": "40 minutos (com feijão já cozido)"
+  },
+  {
+    "id": 9,
+    "categoria": "Pratos principais",
+    "nome": "Strogonoff de Frango",
+    "ingredientes": [
+      "500g de peito de frango em cubos",
+      "1 cebola picada",
+      "2 dentes de alho picados",
+      "Sal e pimenta a gosto",
+      "3 colheres de sopa de ketchup",
+      "1 colher de sopa de mostarda",
+      "1 lata de creme de leite",
+      "Champignon fatiado (opcional)",
+      "Óleo ou azeite"
+    ],
+    "tempo": "30 minutos"
+  },
+  {
+    "id": 10,
+    "categoria": "Pratos principais",
+    "nome": "Peixe Grelhado com Legumes",
+    "ingredientes": [
+      "2 filés de peixe branco (tilápia, merluza)",
+      "Suco de 1/2 limão",
+      "Sal e pimenta a gosto",
+      "Azeite",
+      "Legumes variados (brócolis, cenoura, abobrinha)"
+    ],
+    "tempo": "25 minutos"
+  },
+  {
+    "id": 11,
+    "categoria": "Acompanhamentos",
+    "nome": "Arroz Branco Soltinho",
+    "ingredientes": [
+      "2 xícaras de arroz branco",
+      "4 xícaras de água fervente",
+      "1 dente de alho amassado",
+      "1/2 cebola picada (opcional)",
+      "2 colheres de sopa de óleo vegetal",
+      "Sal a gosto"
+    ],
+    "tempo": "20 minutos"
+  },
+  {
+    "id": 12,
+    "categoria": "Acompanhamentos",
+    "nome": "Farofa de Manteiga",
+    "ingredientes": [
+      "2 xícaras de farinha de mandioca",
+      "3 colheres de sopa de manteiga",
+      "1/2 cebola picada",
+      "Sal a gosto",
+      "Cheiro-verde picado (opcional)"
+    ],
+    "tempo": "15 minutos"
+  },
+  {
+    "id": 13,
+    "categoria": "Acompanhamentos",
+    "nome": "Salada de Maionese",
+    "ingredientes": [
+      "3 batatas médias cozidas e picadas",
+      "2 cenouras médias cozidas e picadas",
+      "1/2 xícara de ervilhas (fresca ou em lata)",
+      "Maionese a gosto",
+      "Sal e pimenta a gosto",
+      "Salsinha picada (opcional)"
+    ],
+    "tempo": "30 minutos (incluindo cozimento)"
+  },
+  {
+    "id": 14,
+    "categoria": "Acompanhamentos",
+    "nome": "Purê de Batatas",
+    "ingredientes": [
+      "500g de batatas",
+      "1/2 xícara de leite quente",
+      "2 colheres de sopa de manteiga",
+      "Sal a gosto",
+      "Noz-moscada ralada a gosto (opcional)"
+    ],
+    "tempo": "35 minutos"
+  },
+  {
+    "id": 15,
+    "categoria": "Acompanhamentos",
+    "nome": "Vinagrete",
+    "ingredientes": [
+      "2 tomates picados sem sementes",
+      "1 cebola picada",
+      "1/2 pimentão verde picado (opcional)",
+      "1/2 xícara de cheiro-verde picado",
+      "Vinagre a gosto",
+      "Azeite a gosto",
+      "Sal a gosto"
+    ],
+    "tempo": "15 minutos"
+  },
+  {
+    "id": 16,
+    "categoria": "Sobremesa",
+    "nome": "Brigadeiro Tradicional",
+    "ingredientes": [
+      "1 lata de leite condensado",
+      "1 colher de sopa de manteiga sem sal",
+      "3 colheres de sopa de chocolate em pó",
+      "Chocolate granulado para decorar"
+    ],
+    "tempo": "25 minutos"
+  },
+  {
+    "id": 17,
+    "categoria": "Sobremesa",
+    "nome": "Mousse de Maracujá Rápido",
+    "ingredientes": [
+      "Polpa de 3 maracujás grandes (ou 1 xícara de suco concentrado)",
+      "1 lata de leite condensado",
+      "1 lata de creme de leite (sem soro)"
+    ],
+    "tempo": "15 minutos + tempo de geladeira"
+  },
+  {
+    "id": 18,
+    "categoria": "Sobremesa",
+    "nome": "Pudim de Leite Condensado",
+    "ingredientes": [
+      "1 lata de leite condensado",
+      "A mesma medida (lata) de leite",
+      "3 ovos",
+      "1 xícara de açúcar para a calda"
+    ],
+    "tempo": "1 hora e 30 minutos (incluindo forno e calda)"
+  },
+  {
+    "id": 19,
+    "categoria": "Sobremesa",
+    "nome": "Bolo de Cenoura com Cobertura",
+    "ingredientes": [
+      "3 cenouras médias raladas",
+      "3 ovos",
+      "1 xícara de óleo",
+      "2 xícaras de açúcar",
+      "2 xícaras de farinha de trigo",
+      "1 colher de sopa de fermento em pó",
+      "Para cobertura: 1 lata de leite condensado, 1 colher de manteiga, 3 colheres de chocolate em pó"
+    ],
+    "tempo": "50 minutos"
+  },
+  {
+    "id": 20,
+    "categoria": "Sobremesa",
+    "nome": "Salada de Frutas Simples",
+    "ingredientes": [
+      "1 mamão papaia picado",
+      "2 bananas picadas",
+      "1 maçã picada",
+      "Suco de 1 laranja",
+      "Folhas de hortelã (opcional)"
+    ],
+    "tempo": "15 minutos"
+  }
+]
