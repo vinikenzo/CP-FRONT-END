@@ -35,10 +35,12 @@ export default function Sobremesas() {
       <ul>
         {
           receitas.map((receita,index)=>(
-            <li key={index}>
-              <Link href={`receitas/${receita.id}`}>{ receita.nome}</Link>
-              - {receita.categoria}
-            </li>
+            <li className="ml-6" key={index}>
+            <div className="h-70  w-[500px]">
+            <Link href={`receitas/${receita.id}`}>{ receita.nome}</Link>
+            - {receita.categoria}
+            </div>
+          </li>
           ))
 
         }

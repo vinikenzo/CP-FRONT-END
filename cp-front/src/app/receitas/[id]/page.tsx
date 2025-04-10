@@ -1,6 +1,7 @@
 "use client";
 import { useParams } from "next/navigation";
 import { useEffect, useState } from "react";
+import Image from "next/image";
 
 
 interface propReceita {
@@ -57,17 +58,17 @@ const PageReceitas = () => {
 
     return(
         <>
-           
-            <h1>{ receita?.nome }</h1>
-            <p><b>Categoria: </b>{ receita?.categoria }</p>
-            <p><b>Ingredientes: </b></p>
-            <ul>
+           {/* <Image src={`/images/$ {receita.imagem}.png`} alt="" width={} height={} /> */}
+            <h1 className="ml-7">{ receita?.nome }</h1>
+            <p className="ml-7 mt-3"><b>Categoria: </b>{ receita?.categoria }</p>
+            <p className="ml-7 mt-3"><b>Ingredientes: </b></p>
+            <ul className="ml-7 mt-3">
                 {receita?.ingredientes.map((item, index) => (
                     <li key={index}>{item}</li>
                 ))}
             </ul>
-            <p><b>Tempo: </b>{ receita?.tempo }</p>
-            <p><b>Modo de preparo: </b>{receita?.preparo}</p>
+            <p className="ml-7 mt-3"><b>Tempo: </b>{ receita?.tempo }</p>
+            <p className="ml-7 mt-3"><b>Modo de preparo: </b>{receita?.preparo}</p>
 
         </>
     )
