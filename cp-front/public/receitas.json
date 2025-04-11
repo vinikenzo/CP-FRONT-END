@@ -12,7 +12,8 @@
       "Recheio opcional (queijo, presunto, tomate)"
     ],
     "tempo": "10 minutos",
-    "preparo" : "Em uma tigela, quebre os ovos e bata bem com um garfo. Adicione o sal e a pimenta a gosto. Aqueça uma frigideira com a manteiga ou o óleo. Despeje os ovos batidos na frigideira e cozinhe em fogo médio. Quando a parte de baixo estiver firme, adicione o recheio desejado e dobre a omelete ao meio. Cozinhe por mais 1-2 minutos e sirva quente."
+    "preparo" : "Em uma tigela, quebre os ovos e bata bem com um garfo. Adicione o sal e a pimenta a gosto. Aqueça uma frigideira com a manteiga ou o óleo. Despeje os ovos batidos na frigideira e cozinhe em fogo médio. Quando a parte de baixo estiver firme, adicione o recheio desejado e dobre a omelete ao meio. Cozinhe por mais 1-2 minutos e sirva quente.",
+    "imagem": "Omelete Simples"
   },
   {
     "id": "2",
@@ -28,7 +29,8 @@
       "2 colheres de sopa de manteiga derretida"
     ],
     "tempo": "20 minutos",
-    "preparo": "Em uma tigela, misture os ingredientes secos: farinha, açúcar, fermento e sal. Em outra, bata o ovo com o leite e a manteiga derretida. Junte os líquidos aos secos e misture até formar uma massa homogênea. Aqueça uma frigideira antiaderente em fogo médio e despeje pequenas porções da massa. Cozinhe até aparecerem bolhas na superfície, vire e doure o outro lado. Sirva quente."
+    "preparo": "Em uma tigela, misture os ingredientes secos: farinha, açúcar, fermento e sal. Em outra, bata o ovo com o leite e a manteiga derretida. Junte os líquidos aos secos e misture até formar uma massa homogênea. Aqueça uma frigideira antiaderente em fogo médio e despeje pequenas porções da massa. Cozinhe até aparecerem bolhas na superfície, vire e doure o outro lado. Sirva quente.",
+    "imagem" : "Panquecas americanas"
   },
   {
     "id": "3",
@@ -41,7 +43,8 @@
       "Sal a gosto (opcional)"
     ],
     "tempo": "8 minutos",
-    "preparo": "Aqueça uma frigideira antiaderente em fogo médio. Espalhe a goma de tapioca de forma uniforme, formando um disco. Quando ela começar a firmar, adicione o queijo coalho e o coco por cima. Dobre ao meio, como um pastel, e deixe mais um minuto para o recheio derreter. Sirva em seguida."
+    "preparo": "Aqueça uma frigideira antiaderente em fogo médio. Espalhe a goma de tapioca de forma uniforme, formando um disco. Quando ela começar a firmar, adicione o queijo coalho e o coco por cima. Dobre ao meio, como um pastel, e deixe mais um minuto para o recheio derreter. Sirva em seguida.",
+    "imagem" : "Tapioca com Queijo e Coco"
   },
   {
     "id": "4",
@@ -54,7 +57,8 @@
       "Mel ou açúcar a gosto (opcional)"
     ],
     "tempo": "5 minutos",
-    "preparo": "Coloque todos os ingredientes no liquidificador: banana, leite, aveia e mel ou açúcar, se desejar. Bata até ficar bem cremoso. Sirva gelado."
+    "preparo": "Coloque todos os ingredientes no liquidificador: banana, leite, aveia e mel ou açúcar, se desejar. Bata até ficar bem cremoso. Sirva gelado.",
+    "imagem": "Vitamina de Banana com Aveia"
   },
   {
     "id": "5",
@@ -66,7 +70,8 @@
       "Requeijão cremoso a gosto"
     ],
     "tempo": "7 minutos",
-    "preparo": "Passe manteiga em um dos lados das fatias de pão. Aqueça uma frigideira e coloque as fatias com o lado da manteiga para baixo. Deixe dourar até ficar crocante. Retire e espalhe o requeijão cremoso por cima. Sirva quente."
+    "preparo": "Passe manteiga em um dos lados das fatias de pão. Aqueça uma frigideira e coloque as fatias com o lado da manteiga para baixo. Deixe dourar até ficar crocante. Retire e espalhe o requeijão cremoso por cima. Sirva quente.",
+    "imagem": "Pao na chapa com requeijao"
   },
   {
     "id": "6",
@@ -84,7 +89,8 @@
       "Manjericão fresco (opcional)"
     ],
     "tempo": "45 minutos",
-    "preparo": "Cozinhe o macarrão conforme as instruções da embalagem. Em uma panela, aqueça o azeite, refogue a cebola e o alho. Adicione a carne moída e cozinhe até dourar. Acrescente o tomate pelado (ou molho), tempere com sal, pimenta e manjericão. Cozinhe por 15 a 20 minutos. Misture o molho ao macarrão cozido e sirva."
+    "preparo": "Cozinhe o macarrão conforme as instruções da embalagem. Em uma panela, aqueça o azeite, refogue a cebola e o alho. Adicione a carne moída e cozinhe até dourar. Acrescente o tomate pelado (ou molho), tempere com sal, pimenta e manjericão. Cozinhe por 15 a 20 minutos. Misture o molho ao macarrão cozido e sirva.",
+    "imagem": "Macarrao a bolonhesa"
   },
   {
     "id": "7",
@@ -100,7 +106,8 @@
       "Batatas cortadas em rodelas (opcional)"
     ],
     "tempo": "1 hora e 15 minutos",
-    "preparo": "Tempere o frango com limão, alho, sal, pimenta e ervas. Deixe marinar por pelo menos 30 minutos. Disponha o frango em uma assadeira, adicione as batatas (se usar), regue com um fio de azeite e leve ao forno preaquecido a 200°C por cerca de 1 hora ou até dourar bem. Sirva em seguida."
+    "preparo": "Tempere o frango com limão, alho, sal, pimenta e ervas. Deixe marinar por pelo menos 30 minutos. Disponha o frango em uma assadeira, adicione as batatas (se usar), regue com um fio de azeite e leve ao forno preaquecido a 200°C por cerca de 1 hora ou até dourar bem. Sirva em seguida.",
+    "imagem": "Frango assado classico"
   },
   {
     "id": "8",
@@ -117,7 +124,8 @@
       "Cheiro-verde picado"
     ],
     "tempo": "40 minutos (com feijão já cozido)",
-    "preparo": "Em uma panela grande, refogue o bacon até dourar. Adicione a linguiça, a cebola e o alho, e refogue mais um pouco. Acrescente o feijão cozido, folhas de louro e tempere com sal e pimenta. Cozinhe por cerca de 20 minutos para apurar o sabor. Finalize com cheiro-verde e sirva com arroz e couve refogada."
+    "preparo": "Em uma panela grande, refogue o bacon até dourar. Adicione a linguiça, a cebola e o alho, e refogue mais um pouco. Acrescente o feijão cozido, folhas de louro e tempere com sal e pimenta. Cozinhe por cerca de 20 minutos para apurar o sabor. Finalize com cheiro-verde e sirva com arroz e couve refogada.",
+    "imagem": "feijoada simples"
   },
   {
     "id": "9",
@@ -135,7 +143,8 @@
       "Óleo ou azeite"
     ],
     "tempo": "30 minutos",
-    "preparo": "Em uma panela, aqueça o óleo e refogue a cebola e o alho. Adicione o frango e cozinhe até dourar. Tempere com sal e pimenta. Acrescente o ketchup, a mostarda e misture bem. Coloque o champignon (se desejar) e por fim adicione o creme de leite. Cozinhe por mais 2 minutos e sirva com arroz branco e batata palha."
+    "preparo": "Em uma panela, aqueça o óleo e refogue a cebola e o alho. Adicione o frango e cozinhe até dourar. Tempere com sal e pimenta. Acrescente o ketchup, a mostarda e misture bem. Coloque o champignon (se desejar) e por fim adicione o creme de leite. Cozinhe por mais 2 minutos e sirva com arroz branco e batata palha.",
+    "imagem": "strogonoff de frango"
   },
   {
     "id": "10",
@@ -149,7 +158,8 @@
       "Legumes variados (brócolis, cenoura, abobrinha)"
     ],
     "tempo": "25 minutos",
-    "preparo": "Tempere os filés de peixe com sal, pimenta e limão. Em uma frigideira com azeite, grelhe os filés até dourar dos dois lados. Em outra panela, cozinhe os legumes no vapor ou salteie no azeite até ficarem macios. Sirva o peixe acompanhado dos legumes."
+    "preparo": "Tempere os filés de peixe com sal, pimenta e limão. Em uma frigideira com azeite, grelhe os filés até dourar dos dois lados. Em outra panela, cozinhe os legumes no vapor ou salteie no azeite até ficarem macios. Sirva o peixe acompanhado dos legumes.",
+    "imagem": "peixe grelhado"
   },
   {
     "id": "11",
@@ -164,7 +174,8 @@
       "Sal a gosto"
     ],
     "tempo": "20 minutos",
-    "preparo": "Em uma panela, aqueça o óleo e refogue o alho e a cebola até dourarem levemente. Adicione o arroz e refogue por 1 a 2 minutos. Acrescente a água fervente e o sal. Cozinhe em fogo médio com a panela semi-tampada até a água secar. Abaixe o fogo, tampe completamente e deixe cozinhar por mais 5 minutos. Desligue e deixe descansar por alguns minutos antes de servir."
+    "preparo": "Em uma panela, aqueça o óleo e refogue o alho e a cebola até dourarem levemente. Adicione o arroz e refogue por 1 a 2 minutos. Acrescente a água fervente e o sal. Cozinhe em fogo médio com a panela semi-tampada até a água secar. Abaixe o fogo, tampe completamente e deixe cozinhar por mais 5 minutos. Desligue e deixe descansar por alguns minutos antes de servir.",
+    "imagem": "arroz soltinho"
   },
   {
     "id": "12",
@@ -178,7 +189,8 @@
       "Cheiro-verde picado (opcional)"
     ],
     "tempo": "15 minutos",
-    "preparo": "Em uma panela, derreta a manteiga e refogue a cebola até murchar. Acrescente a farinha de mandioca aos poucos, mexendo sempre. Tempere com sal e, se desejar, finalize com cheiro-verde. Mexa bem até a farofa ficar levemente dourada. Sirva quente ou em temperatura ambiente."
+    "preparo": "Em uma panela, derreta a manteiga e refogue a cebola até murchar. Acrescente a farinha de mandioca aos poucos, mexendo sempre. Tempere com sal e, se desejar, finalize com cheiro-verde. Mexa bem até a farofa ficar levemente dourada. Sirva quente ou em temperatura ambiente.",
+    "imagem": "farofa de manteiga"
   },
   {
     "id": "13",
@@ -193,7 +205,8 @@
       "Salsinha picada (opcional)"
     ],
     "tempo": "30 minutos (incluindo cozimento)",
-    "preparo": "Cozinhe as batatas e cenouras em água com sal até ficarem macias, depois escorra e deixe esfriar. Em uma tigela, misture os legumes cozidos com as ervilhas. Acrescente a maionese aos poucos até obter a cremosidade desejada. Tempere com sal, pimenta e finalize com salsinha picada. Leve à geladeira antes de servir."
+    "preparo": "Cozinhe as batatas e cenouras em água com sal até ficarem macias, depois escorra e deixe esfriar. Em uma tigela, misture os legumes cozidos com as ervilhas. Acrescente a maionese aos poucos até obter a cremosidade desejada. Tempere com sal, pimenta e finalize com salsinha picada. Leve à geladeira antes de servir.",
+    "imagem": "salada de maionese"
   },
   {
     "id": "14",
@@ -207,7 +220,8 @@
       "Noz-moscada ralada a gosto (opcional)"
     ],
     "tempo": "35 minutos",
-    "preparo": "Cozinhe as batatas em água com sal até ficarem bem macias. Escorra e amasse ainda quentes. Em uma panela, aqueça a manteiga e adicione as batatas amassadas. Acrescente o leite quente aos poucos, mexendo sempre até atingir a consistência desejada. Tempere com sal e noz-moscada, se desejar. Sirva quente."
+    "preparo": "Cozinhe as batatas em água com sal até ficarem bem macias. Escorra e amasse ainda quentes. Em uma panela, aqueça a manteiga e adicione as batatas amassadas. Acrescente o leite quente aos poucos, mexendo sempre até atingir a consistência desejada. Tempere com sal e noz-moscada, se desejar. Sirva quente.",
+    "imagem": "pure de batata"
   },
   {
     "id": "15",
@@ -223,7 +237,8 @@
       "Sal a gosto"
     ],
     "tempo": "15 minutos",
-    "preparo":  "Em uma tigela, misture os tomates, a cebola, o pimentão (se usar) e o cheiro-verde. Tempere com vinagre, azeite e sal a gosto. Misture bem e deixe descansar por pelo menos 10 minutos antes de servir para apurar os sabores. Pode ser servido frio ou em temperatura ambiente."
+    "preparo":  "Em uma tigela, misture os tomates, a cebola, o pimentão (se usar) e o cheiro-verde. Tempere com vinagre, azeite e sal a gosto. Misture bem e deixe descansar por pelo menos 10 minutos antes de servir para apurar os sabores. Pode ser servido frio ou em temperatura ambiente.",
+    "imagem": "vinagrete"
   },
   {
     "id": "16",
@@ -236,7 +251,8 @@
       "Chocolate granulado para decorar"
     ],
     "tempo": "25 minutos",
-    "preparo": "Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó. Cozinhe em fogo baixo, mexendo sempre, até que a mistura desgrude do fundo da panela (ponto de brigadeiro de enrolar). Transfira para um prato untado e deixe esfriar. Enrole os brigadeiros e passe no granulado."
+    "preparo": "Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó. Cozinhe em fogo baixo, mexendo sempre, até que a mistura desgrude do fundo da panela (ponto de brigadeiro de enrolar). Transfira para um prato untado e deixe esfriar. Enrole os brigadeiros e passe no granulado.",
+    "imagem": "brigadeiro tradicional"
   },
   {
     "id": "17",
@@ -248,7 +264,8 @@
       "1 lata de creme de leite (sem soro)"
     ],
     "tempo": "15 minutos + tempo de geladeira",
-    "preparo": "No liquidificador, bata a polpa ou suco de maracujá com o leite condensado e o creme de leite até obter uma mistura homogênea. Despeje em taças ou em um recipiente e leve à geladeira por pelo menos 2 horas ou até firmar."
+    "preparo": "No liquidificador, bata a polpa ou suco de maracujá com o leite condensado e o creme de leite até obter uma mistura homogênea. Despeje em taças ou em um recipiente e leve à geladeira por pelo menos 2 horas ou até firmar.",
+    "imagem": "mousse de maracuja"
   },
   {
     "id": "18",
@@ -261,7 +278,8 @@
       "1 xícara de açúcar para a calda"
     ],
     "tempo": "1 hora e 30 minutos (incluindo forno e calda)",
-    "preparo": "Para a calda, derreta o açúcar em fogo baixo até formar um caramelo. Espalhe a calda em uma forma de pudim. No liquidificador, bata o leite condensado, o leite e os ovos até ficar homogêneo. Despeje na forma e leve ao forno pré-aquecido a 180°C em banho-maria por cerca de 1 hora. Deixe esfriar, leve à geladeira e desenforme depois de gelado."
+    "preparo": "Para a calda, derreta o açúcar em fogo baixo até formar um caramelo. Espalhe a calda em uma forma de pudim. No liquidificador, bata o leite condensado, o leite e os ovos até ficar homogêneo. Despeje na forma e leve ao forno pré-aquecido a 180°C em banho-maria por cerca de 1 hora. Deixe esfriar, leve à geladeira e desenforme depois de gelado.",
+    "imagem": "pudim de leite"
   },
   {
     "id": "19",
@@ -277,7 +295,9 @@
       "Para cobertura: 1 lata de leite condensado, 1 colher de manteiga, 3 colheres de chocolate em pó"
     ],
     "tempo": "50 minutos",
-    "preparo": "Bata no liquidificador as cenouras, os ovos e o óleo. Em uma tigela, misture o açúcar, a farinha e o fermento, e adicione a mistura do liquidificador. Mexa bem até obter uma massa homogênea. Despeje em forma untada e leve ao forno pré-aquecido a 180°C por cerca de 40 minutos. Para a cobertura, leve ao fogo o leite condensado, a manteiga e o chocolate em pó, mexendo até engrossar. Espalhe sobre o bolo ainda quente."
+    "preparo": "Bata no liquidificador as cenouras, os ovos e o óleo. Em uma tigela, misture o açúcar, a farinha e o fermento, e adicione a mistura do liquidificador. Mexa bem até obter uma massa homogênea. Despeje em forma untada e leve ao forno pré-aquecido a 180°C por cerca de 40 minutos. Para a cobertura, leve ao fogo o leite condensado, a manteiga e o chocolate em pó, mexendo até engrossar. Espalhe sobre o bolo ainda quente.",
+    "imagem": "bolo de cenoura"
+  
   },
   {
     "id": "20",
@@ -291,6 +311,8 @@
       "Folhas de hortelã (opcional)"
     ],
     "tempo": "15 minutos",
-    "preparo": "Em uma tigela, misture todas as frutas picadas. Regue com o suco de laranja para realçar o sabor e evitar que as frutas escureçam. Misture delicadamente e, se desejar, decore com folhas de hortelã. Sirva gelado."
+    "preparo": "Em uma tigela, misture todas as frutas picadas. Regue com o suco de laranja para realçar o sabor e evitar que as frutas escureçam. Misture delicadamente e, se desejar, decore com folhas de hortelã. Sirva gelado.",
+    "imagem": "salada de fruta"
+  
   }
 ]

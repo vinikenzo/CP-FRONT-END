@@ -58,8 +58,8 @@ const PageReceitas = () => {
 
     return(
         <>
-           {/* <Image src={`/images/$ {receita.imagem}.png`} alt="" width={} height={} /> */}
-            <h1 className="ml-7">{ receita?.nome }</h1>
+            <p className="ml-7 text-3xl font-bold">{ receita?.nome }</p>
+            <Image className="ml-4" src={`/images/${receita.imagem}.jpg`} alt="" width={300} height={100} /> 
             <p className="ml-7 mt-3"><b>Categoria: </b>{ receita?.categoria }</p>
             <p className="ml-7 mt-3"><b>Ingredientes: </b></p>
             <ul className="ml-7 mt-3">
