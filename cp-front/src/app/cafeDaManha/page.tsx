@@ -1,11 +1,12 @@
 "use client";
 import Link from "next/link";
 import { useEffect, useState } from "react";
-
+import Image from "next/image";
 interface propReceitas {
   id : string;
   nome : string;
   categoria : string;
+  imagem: string;
 }
 
 export default function Cafe() {
@@ -35,10 +36,18 @@ export default function Cafe() {
       <ul>
         {
           receitas.map((receita,index)=>(
-            <li className="ml-6" key={index}>
-              <div className="h-70  w-[500px]">
-              <Link href={`receitas/${receita.id}`}>{ receita.nome}</Link>
+            <li className="ml-40 border- flex space mr-0 w-auto  float-start" key={index}>
+            <div className="h-100 border-  w-[450px]">
+            
+              <Link className="font-bold text-2xl text-center" href={`receitas/${receita.id}`}>{receita.nome}
               - {receita.categoria}
+              <Image className="mt-7 ml-20"
+              src={`/images/${receita.imagem}.jpg`}
+              alt=""
+              width={300}
+              height={100}
+            />
+              </Link>
               </div>
             </li>
           ))
