@@ -28,25 +28,22 @@ export default function Home() {
   }, []);
 
   return (
-    <>
-      <ul>
-        {receitas.map((receita, index) => (
-          <li className=" ml-40 border- flex space mr-0 w-auto  float-start" key={index}>
-            <div className="h-100 border-  w-[450px]">
-            
-              <Link className="font-bold text-2xl text-center" href={`receitas/${receita.id}`}>{receita.nome}
-              - {receita.categoria}
-              <Image className="mt-7 ml-20"
-              src={`/images/${receita.imagem}.jpg`}
-              alt=""
-              width={300}
-              height={100}
-            />
-              </Link>
-            </div>
-          </li>
-        ))}
-      </ul>
-    </>
+      <>
+        <div className={"mb-707"}>
+        <ul>
+          {receitas.map((receita, index) => (
+              <li className=" ml-40 border- flex space mr-0 w-auto  float-start" key={index}>
+                <div className="h-100 border-  w-[450px]">
+
+                  <Link className="font-bold text-2xl text-center" href={`receitas/${receita.id}`}>{receita.nome}
+                    - {receita.categoria}
+                    <Image className="mt-7 ml-20" src={`/images/${receita.imagem}.jpg`} alt="" width={300} height={100}/>
+                  </Link>
+                </div>
+              </li>
+          ))}
+        </ul>
+        </div>
+      </>
   );
 }

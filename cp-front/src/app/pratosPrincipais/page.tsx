@@ -33,7 +33,7 @@ export default function Pratos() {
 
   return (
     <>
-      <ul>
+      <ul className={"mb-207"}>
         {
           receitas.map((receita,index)=>(
             <li className="ml-40 border- flex space mr-0 w-auto  float-start" key={index}>
