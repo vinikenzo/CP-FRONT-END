@@ -58,17 +58,24 @@ const PageReceitas = () => {
 
     return(
         <>
-            <p className="ml-7 text-3xl font-bold">{ receita?.nome }</p>
-            <Image className="ml-4" src={`/images/${receita.imagem}.jpg`} alt="" width={300} height={100} /> 
-            <p className="ml-7 mt-3"><b>Categoria: </b>{ receita?.categoria }</p>
-            <p className="ml-7 mt-3"><b>Ingredientes: </b></p>
-            <ul className="ml-7 mt-3">
-                {receita?.ingredientes.map((item, index) => (
-                    <li key={index}>{item}</li>
-                ))}
-            </ul>
-            <p className="ml-7 mt-3"><b>Tempo: </b>{ receita?.tempo }</p>
-            <p className="ml-7 mt-3"><b>Modo de preparo: </b>{receita?.preparo}</p>
+            <p className="ml-7 text-[88px] font-bold text-center mb-20">{receita?.nome}</p>
+            <div className={"flex"}>
+
+                <div className={"w-2/4 h-full mr-150"}>
+                    <p className="ml-7 mt-3"><b>Ingredientes: </b></p>
+                    <ul className="ml-7 mt-3">
+                        {receita?.ingredientes.map((item, index) => (
+                            <li key={index}>{item}</li>
+                        ))}
+                    </ul>
+                    <p className="ml-7 mt-3"><b>Tempo: </b>{receita?.tempo}</p>
+                    <p className="ml-7 mt-3 text-left"><b>Modo de preparo: </b>{receita?.preparo}</p>
+                </div>
+                <div className={"w-200 h-150 "}>
+                    <Image className="ml-4 border-" src={`/images/${receita.imagem}.jpg`} alt="" width={450} height={150}/>
+                    <p className="ml-7 mt-3"><b>Categoria: </b>{receita?.categoria}</p>
+                </div>
+            </div>
 
         </>
     )
