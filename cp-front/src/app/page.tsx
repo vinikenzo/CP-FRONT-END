@@ -29,7 +29,7 @@ export default function Home() {
 
   return (
       <>
-        <div className={"mb-707"}>
+        <div className={"mb-1  h-1000"}>
         <ul>
           {receitas.map((receita, index) => (
               <li className=" ml-40 border- flex space mr-0 w-auto  float-start" key={index}>
