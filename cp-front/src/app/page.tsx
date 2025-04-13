@@ -29,8 +29,8 @@ export default function Home() {
 
   return (
       <>
-        <div className={"mb-1  h-1000"}>
-        <ul>
+        <div className={"mb-1 w-400  h-1000"}>
+        <ul className="ml-45">
           {receitas.map((receita, index) => (
               <li className=" ml-40 border- flex space mr-0 w-auto  float-start" key={index}>
                 <div className="h-100 border-  w-[450px]">
