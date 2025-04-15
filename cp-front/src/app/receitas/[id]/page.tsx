@@ -4,7 +4,7 @@ import { useEffect, useState } from "react";
 import Image from "next/image";
 
 
-interface propReceita {
+interface propReceita { 
     id : string;
     categoria : string;
     nome : string;
@@ -22,6 +22,7 @@ const PageReceitas = () => {
 
     const [erro,setErro] = useState<string | null>(null);
 
+    //função para acessar os dados do json
     useEffect(()=>{
         const procurarReceita = async () => {
             try{

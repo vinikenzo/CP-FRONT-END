@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 import Header from "./components/header/page";
 import Footer from "./components/footer/page";
+import { ThemeContext, ThemeProvider } from "./Context/themecontext";
 
 export const metadata: Metadata = {
   title: "CP 05",
@@ -14,11 +15,14 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
+    /** Implementa o ThemeProvider que guarda a informação do Themecontext para todas as páginas (Children)*/
     <html lang="en">
       <body>
-        <Header />
-        {children}
-        <Footer />
+      <ThemeProvider>
+          <Header />
+            {children}
+          <Footer />
+          </ThemeProvider>
       </body>
     </html>
   );

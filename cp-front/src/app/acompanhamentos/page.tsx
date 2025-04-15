@@ -13,7 +13,7 @@ interface propReceitas {
 export default function Acompanhamentos() {
 
   const [receitas, setReceitas] = useState<propReceitas[]>([]);
-
+//função para filtrar acompanhamentos
   useEffect(() => {
     const buscarReceitas = async () => {
       try {

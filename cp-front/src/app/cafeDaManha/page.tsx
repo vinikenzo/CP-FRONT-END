@@ -12,7 +12,7 @@ interface propReceitas {
 export default function Cafe() {
 
   const [receitas, setReceitas] = useState<propReceitas[]>([]);
-
+// funçao para filtrar cafe da manha
   useEffect(() => {
     const buscarReceitas = async () => {
       try {

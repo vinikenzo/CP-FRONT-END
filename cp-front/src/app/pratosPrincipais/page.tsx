@@ -12,7 +12,7 @@ interface propReceitas {
 export default function Pratos() {
 
   const [receitas, setReceitas] = useState<propReceitas[]>([]);
-
+// função para filtrar pratos principais
   useEffect(() => {
     const buscarReceitas = async () => {
       try {

@@ -14,6 +14,7 @@ export default function Sobremesas() {
 
   const [receitas, setReceitas] = useState<propReceitas[]>([]);
 
+  //função para filtrar sobremesas
   useEffect(() => {
     const buscarReceitas = async () => {
       try {

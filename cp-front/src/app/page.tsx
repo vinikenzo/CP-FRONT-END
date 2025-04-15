@@ -27,7 +27,7 @@ export default function Home() {
     buscarReceitas();
   }, []);
 
-  return (
+  return ( 
       <>
         <div className={"mb-1 w-400  h-1000"}>
         <ul className="ml-45">
